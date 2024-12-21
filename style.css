@@ -1,0 +1,28 @@
+* {
+    background-color: #FFFFFF;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+}
+
+div.head {
+    color: #513AEB;
+    text-align: center;
+    font-style: bold;
+    font-size: 24px;
+}
+
+.Recipes .button {
+    background-color: #EDF71D;
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    border-color: transparent;
+    margin: 10px;
+    padding: 3px;
+}
+
+.Recipes {
+    font-size: 20px;
+    list-style: circle;
+    text-align: justify;
+}
+
